@@ -1,0 +1,6 @@
+C:\Users\LENOVO\Desktop\abcd\Com.Cognizant.Truyum\Com.Cognizant.Truyum.Utility\bin\Debug\Com.Cognizant.Truyum.Utility.dll
+C:\Users\LENOVO\Desktop\abcd\Com.Cognizant.Truyum\Com.Cognizant.Truyum.Utility\bin\Debug\Com.Cognizant.Truyum.Utility.pdb
+C:\Users\LENOVO\Desktop\abcd\Com.Cognizant.Truyum\Com.Cognizant.Truyum.Utility\obj\Debug\Com.Cognizant.Truyum.Utility.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\abcd\Com.Cognizant.Truyum\Com.Cognizant.Truyum.Utility\obj\Debug\Com.Cognizant.Truyum.Utility.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\abcd\Com.Cognizant.Truyum\Com.Cognizant.Truyum.Utility\obj\Debug\Com.Cognizant.Truyum.Utility.dll
+C:\Users\LENOVO\Desktop\abcd\Com.Cognizant.Truyum\Com.Cognizant.Truyum.Utility\obj\Debug\Com.Cognizant.Truyum.Utility.pdb

@@ -1,0 +1,11 @@
+C:\Users\LENOVO\Desktop\abcd\Com.Cognizant.Truyum\Com.Cognizant.Truyum.Dao\obj\Debug\Com.Cognizant.Truyum.Dao.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\abcd\Com.Cognizant.Truyum\Com.Cognizant.Truyum.Dao\obj\Debug\Com.Cognizant.Truyum.Dao.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\abcd\Com.Cognizant.Truyum\Com.Cognizant.Truyum.Dao\bin\Debug\Com.Cognizant.Truyum.Dao.dll
+C:\Users\LENOVO\Desktop\abcd\Com.Cognizant.Truyum\Com.Cognizant.Truyum.Dao\bin\Debug\Com.Cognizant.Truyum.Dao.pdb
+C:\Users\LENOVO\Desktop\abcd\Com.Cognizant.Truyum\Com.Cognizant.Truyum.Dao\bin\Debug\Com.Cognizant.Truyum.Model.dll
+C:\Users\LENOVO\Desktop\abcd\Com.Cognizant.Truyum\Com.Cognizant.Truyum.Dao\bin\Debug\Com.Cognizant.Truyum.Utility.dll
+C:\Users\LENOVO\Desktop\abcd\Com.Cognizant.Truyum\Com.Cognizant.Truyum.Dao\bin\Debug\Com.Cognizant.Truyum.Model.pdb
+C:\Users\LENOVO\Desktop\abcd\Com.Cognizant.Truyum\Com.Cognizant.Truyum.Dao\bin\Debug\Com.Cognizant.Truyum.Utility.pdb
+C:\Users\LENOVO\Desktop\abcd\Com.Cognizant.Truyum\Com.Cognizant.Truyum.Dao\obj\Debug\Com.Cognizant.Truyum.Dao.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\abcd\Com.Cognizant.Truyum\Com.Cognizant.Truyum.Dao\obj\Debug\Com.Cognizant.Truyum.Dao.dll
+C:\Users\LENOVO\Desktop\abcd\Com.Cognizant.Truyum\Com.Cognizant.Truyum.Dao\obj\Debug\Com.Cognizant.Truyum.Dao.pdb
